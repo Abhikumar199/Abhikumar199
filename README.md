@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Brain%20Inspired%20AI-blueviolet" />
   <img src="https://img.shields.io/badge/Research-SNN%20%7C%20BCI%20%7C%20RL-success" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20PyTorch%20%7C%20LaTeX-informational" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20PyTorch%20%7C%20scikit-learn-informational" />
 </p>
 
 ---
