@@ -146,9 +146,8 @@ I enjoy **reverse-engineering neural learning mechanisms** — from membrane pot
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *add link*
-- 📧 Email: *add email*
-- 📚 Google Scholar: *optional*
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-220aa1260/
+- 📧 Email: abhiabhishekkumar8282@gmail.com
 
 ---
 
