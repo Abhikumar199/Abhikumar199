@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Brain--Inspired%20AI-blueviolet" />
   <img src="https://img.shields.io/badge/Research-Computational%20Neuroscience-success" />
   <img src="https://img.shields.io/badge/Models-SNN%20%7C%20Biophysical%20Neurons-9cf" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20NEURON%20%7C%20Brian2-informational" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20NEURON%20%7C%20scikit learn-informational" />
 </p>
 
 
