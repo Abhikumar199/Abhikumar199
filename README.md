@@ -60,27 +60,72 @@ I enjoy **reverse-engineering neural learning mechanisms** — from membrane pot
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Skills & Tools (Research-Oriented)
 
-### Programming & Scientific Computing
-- Python, Java
-- NumPy, SciPy
-
-### Machine Learning & AI
-- PyTorch, TensorFlow
-- Scikit-learn
-- Reinforcement Learning basics
-
-### Data Analysis & Visualization
-- Pandas
-- Matplotlib, Seaborn
-- Statsmodels
-
-### Research Tools
-- LaTeX (papers, reports)
-- Git & GitHub
+### 🧠 Computational Neuroscience & Neural Modeling
+- **NEURON** (hoc scripting, biophysical neuron models)
+- **Brian2** (spiking neuron & network simulations)
+- Ion-channel, membrane potential & spike-train dynamics
+- Exploration and adaptation of published models from **ModelDB**
+- Parameter sweeps, stability analysis, and regime exploration
 
 ---
+
+### 🤖 Machine Learning & Brain-Inspired AI
+- Supervised learning (classification, regression)
+- Multi-Layer Perceptrons (MLPs)
+- Foundations of Reinforcement Learning
+- **Spiking Neural Networks (SNNs)**
+- Hebbian learning, STDP (conceptual & implementation-level understanding)
+- Interpretable and biologically grounded learning models
+
+---
+
+### 🧮 Programming & Scientific Computing
+- **Python** (primary research language)
+- Java, R, MySQL
+- Strong foundation in:
+  - Linear Algebra  
+  - Probability & Statistics  
+  - Optimization  
+  - Numerical Methods  
+
+---
+
+### 📊 Data Analysis & Scientific Visualization
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Statsmodels
+- Visualization of:
+  - Membrane potentials  
+  - Spike trains  
+  - Neural population activity  
+
+---
+
+### 📐 Mathematical & Research Tools
+- MATLAB
+- Mathematica
+- Dynamical systems analysis (introductory level)
+- **LaTeX** (research papers, abstracts, proceedings, reports)
+
+---
+
+### 🧰 Engineering & Productivity Tools
+- Git, GitHub
+- Kaggle
+- Power BI, Excel
+- Apache Kafka (basic exposure)
+
+---
+
+### 🌐 Application Domains
+- Computational Neuroscience
+- Brain-Inspired Artificial Intelligence
+- Neuromorphic Computing
+- Biomedical Machine Learning
+- Brain–Computer Interfaces (BCI)
+
 
 ## 📈 GitHub Analytics
 
